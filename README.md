@@ -33,9 +33,6 @@ A comprehensive web-based Hospital Management System designed to streamline core
 - 📂 docs/ - ERD, SRS, and design documents
 - 📄 README.md - Project overview
 
-yaml
-Copy
-Edit
 
 ---
 
