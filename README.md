@@ -27,11 +27,11 @@ A comprehensive web-based Hospital Management System designed to streamline core
 
 ## 📁 Project Structure
 
-📂 frontend/ - User interfaces
-📂 backend/ - Server-side logic and APIs
-📂 database/ - SQL scripts and schema
-📂 docs/ - ERD, SRS, and design documents
-📄 README.md - Project overview
+- 📂 frontend/ - User interfaces
+- 📂 backend/ - Server-side logic and APIs
+- 📂 database/ - SQL scripts and schema
+- 📂 docs/ - ERD, SRS, and design documents
+- 📄 README.md - Project overview
 
 yaml
 Copy
